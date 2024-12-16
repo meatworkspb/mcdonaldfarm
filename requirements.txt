@@ -1,0 +1,13 @@
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+black==24.10.0
+cffi==1.17.1
+click==8.1.7
+mypy-extensions==1.0.0
+packaging==24.2
+pathspec==0.12.1
+platformdirs==4.3.6
+psycopg2-binary==2.9.10
+pycparser==2.22
+tomli==2.2.1
+typing_extensions==4.12.2
